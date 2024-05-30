@@ -8,13 +8,11 @@ Dans le cadre de ma formation dans la spécialité de SII (Systèmes d'Informati
 Nous avons aussi intégré une interface graphique pour une meilleure visualisation des réultats.
 
 
-Les détails de ce projet se trouvent dans le fichier **Sacs_a_dos Part1 _ Metaheuristique.pdf.**
+Les détails de ce projet se trouvent dans le fichier **Sacs_A_Dos_Part2_Metaheuristique.pdf.**
 
-**Traitement avec DFS : voir les fichiers fonction.java et LancerTraitementDFS.java avec Noeud.java.**
+**Traitement avec GA : voir les fichiers fonctionGA.java et LancerTraitementGA.java avec noeudGA.java.**
 
-**Traitement avec BFS : voir les fichiers fonction_bfs.java et LancerTraitementBFS.java avec Noeud.java.**
-
-**Traitement avec A\*  : voir les fichiers fonction_A.java et LancerTraitementAetoile.java avec NoeudA.java.**
+**Traitement avec BFS : voir les fichiers fonction.java et LancerTraitementBSO.java avec Noeud.java.**
 
 Les fichiers objets.csv, objets2.csv et objets3.csv contiennent des poids et des valeurs aléatoires de plusieurs objets (chaque fichier csv a une taille différente de l'autre).
 
