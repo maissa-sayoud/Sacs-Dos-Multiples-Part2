@@ -2,7 +2,7 @@
 
 Sacs à dos multiples (Multiple Knapsack Problem) Problème d'optimisation des sacs à dos multiples en utilisant les metaheuristiques : GA (Genetic Algorithm) et BSO (Bee Sworm Optimization).
 
-Dans le cadre de ma formation dans la spécialité de SII (Systèmes d'Informations Intelligents) ou intelligence artificielle, nous avons eu pour tâche la réalisation d'un projet pour le module des métaheuristiques en Java, visant à résoudre dans sa premiere partie le problème des sacs à dos multiples en utilisant les algorithmes : DFS (Depth-First Search), BFS (Breadth-First Search) et A* (A star) et en utilisant les metaheuristiques : GA (Genetic Algorithm) et BSO (Bee Sworm Optimization) dans sa deuxième partie.
+Dans le cadre de ma formation dans la spécialité de SII (Systèmes d'Informations Intelligents) ou intelligence artificielle, nous avons eu pour tâche la réalisation d'un projet pour le module des métaheuristiques en Java, visant à résoudre dans sa premiere partie le problème des sacs à dos multiples en utilisant les algorithmes: DFS (Depth-First Search), BFS (Breadth-First Search) et A* (A star) et en utilisant les metaheuristiques: GA (Genetic Algorithm) et BSO (Bee Sworm Optimization) dans sa deuxième partie.
 
 
 Nous avons aussi intégré une interface graphique pour une meilleure visualisation des réultats.
